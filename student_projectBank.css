@@ -1,0 +1,40 @@
+td, th{
+    color: rgb(255, 255, 255) !important;
+}
+/* 
+.css-rqglhn-MuiTable-root {
+    display: table;
+    width: 90% !important;
+    border-collapse: collapse;
+    border-spacing: 0;
+    position: relative;
+    -webkit-backdrop-filter: blur(37px);
+    backdrop-filter: blur(37px);
+    border-radius: 18px;
+    padding: 1%;
+    border-color: rgba(59, 74, 89, 0.2);
+    
+} */
+
+/* .css-11xur9t-MuiPaper-root-MuiTableContainer-root {
+    background-color: inherit !important;
+} */
+
+#collapse_btn{
+    color: white;
+}
+#main_table {
+    position: relative;
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    padding: 24px;
+    background-color: rgba(31, 38, 46, 0.15) !important;
+    border: 1px solid rgba(59, 74, 89, 0.2) !important;
+    margin-top: 2%;
+    margin-bottom: 4%;
+    width: 90%;
+    /* color: white; */
+    position: relative;
+    left: 5%;
+}
